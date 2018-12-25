@@ -1,0 +1,2 @@
+# wechatconfig
+wechat config test
